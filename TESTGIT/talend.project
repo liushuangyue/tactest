@@ -321,4 +321,6 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_m8_EAXIhEeW1zouo_a6zdg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_nhTSAHIhEeW1zouo_a6zdg" login="aa@talend.com" firstName="aa" lastName="aa" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_O48bMXIsEeWkxKZMNX_mGA" login="bb@talend.com" firstName="bb" lastName="bb" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_O48bMnIsEeWkxKZMNX_mGA" login="cc@talend.com" firstName="cc" lastName="cc" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
